@@ -29,9 +29,9 @@ Analytical tools:
 
 ## Data Science Projects
 
-[House Rocket-> Insights](https://github.com/ThiagoBorgesLima/House_Rocket/blob/master/imgs/house1.jpg)
+[House Rocket-> Insights]
 
-![Sales](https://github.com/ThiagoBorgesLima/Rossman-Store-Sales/blob/main/imgs/rossmann.jpeg)
+![Sales]((https://github.com/ThiagoBorgesLima/House_Rocket/blob/master/imgs/house1.jpg))
 
 
 
