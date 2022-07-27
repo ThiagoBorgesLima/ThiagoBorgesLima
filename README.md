@@ -29,6 +29,11 @@ Analytical tools:
 
 ## Data Science Projects
 
+[House Rocket-> Insights](https://github.com/ThiagoBorgesLima/House_Rocket/blob/master/imgs/house1.jpg)
+
+![Sales](https://github.com/ThiagoBorgesLima/Rossman-Store-Sales/blob/main/imgs/rossmann.jpeg)
+
+
 
 [Rossmann Sales -> Regression](https://github.com/ThiagoBorgesLima/Rossman-Store-Sales)
 
