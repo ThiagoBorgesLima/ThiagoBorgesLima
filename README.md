@@ -33,13 +33,13 @@ Analytical tools:
 
 The CFO requests the prediction of each store in a monthly meeting, whereas she was having difficulty to find out the best investment value for the renovations of each store, due the prediction provided by the directors was not assertive, there was a lot of divergence. Therefore to solve this problem, I used Machine Learning algorithms to forecast most precisely how would be the store prediction for the next six weeks (forty-two days). 
 
-The gross expected income of the majority of stores is in the range between R$5000.00 and R$22000.00. The chain is expected to obtain R$289,822,112.00, with best and worst case scenarios of R$290,808,412.17 and R$288,835,860.27, respectively. These scenarios are predicted using statistical errors (mean absolute percentage error).
+The gross expected income of the majority of stores is in the range between R$5000.00 and R$22000.00. The chain is expected to obtain R$283,198,749.24, with best and worst case scenarios of R$284,604,871.47 and R$283,901,824.00, respectively. These scenarios are predicted using statistical errors (mean absolute percentage error).
 
 
 
 [Insurance All -> Classification](https://github.com/djalmajr07/InsuranceAll)
 
-![insurance](https://github.com/djalmajr07/InsuranceAll/blob/main/img/capa.jpg)
+![insurance](https://github.com/ThiagoBorgesLima/health_insurance/blob/master/imgs/health.jpeg)
 
 A health insurance company intends to offer its customers a new product, a vehicle insurance. In order to achieve this purpose efficiently, it gathered some information about their customers and asked if they would be interested in purchasing a new vehicle insurance. This information was passed on to a Data Science Consulting office.
 
