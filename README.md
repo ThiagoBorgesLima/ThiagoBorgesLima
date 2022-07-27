@@ -31,7 +31,7 @@ Analytical tools:
 
 [House Rocket-> Insights](https://github.com/ThiagoBorgesLima/House_Rocket)
 
-![Sales]((https://github.com/ThiagoBorgesLima/House_Rocket/blob/master/imgs/house1.jpg))
+![Sales](https://github.com/ThiagoBorgesLima/House_Rocket/blob/master/imgs/house1.jpg)
 
 
 
