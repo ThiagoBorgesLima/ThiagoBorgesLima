@@ -48,15 +48,13 @@ The gross expected income of the majority of stores is in the range between R$50
 
 
 
-[Insurance All -> Classification](https://github.com/djalmajr07/InsuranceAll) UNDER DEVELOPMENT
+[Insurance All -> Classification](https://github.com/djalmajr07/InsuranceAll) ( UNDER DEVELOPMENT )
 
 ![insurance](https://github.com/ThiagoBorgesLima/health_insurance/blob/master/imgs/health.jpeg)
 
 A health insurance company intends to offer its customers a new product, a vehicle insurance. In order to achieve this purpose efficiently, it gathered some information about their customers and asked if they would be interested in purchasing a new vehicle insurance. This information was passed on to a Data Science Consulting office.
 
-The office delivered a report informing, among all features gathered, the most relevant ones and the probability of purchase from each customer. Qualitatively, the predicted probability provides a lift gain of 2.5, thus reducing the sales cost to 40%.
-
-
+The office delivered a report informing, among all features gathered, the most relevant ones and the probability of purchase from each customer.
 
 
 
