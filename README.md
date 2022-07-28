@@ -48,9 +48,9 @@ The gross expected income of the majority of stores is in the range between R$50
 
 
 
-[Insurance All -> Classification](https://github.com/djalmajr07/InsuranceAll) ( UNDER DEVELOPMENT )
+[Insurance All -> Classification](https://github.com/ThiagoBorgesLima/health_insurance) ( UNDER DEVELOPMENT )
 
-![insurance](https://github.com/ThiagoBorgesLima/health_insurance/blob/master/imgs/health.jpeg)
+![insurance](https://github.com/ThiagoBorgesLima/health_insurance/blob/master/references/health.jpeg)
 
 A health insurance company intends to offer its customers a new product, a vehicle insurance. In order to achieve this purpose efficiently, it gathered some information about their customers and asked if they would be interested in purchasing a new vehicle insurance. This information was passed on to a Data Science Consulting office.
 
