@@ -33,13 +33,16 @@ Analytical tools:
 
 ![Sales](https://github.com/ThiagoBorgesLima/House_Rocket/blob/master/imgs/house1.jpg)
 
+House Rocket's CEO would like to maximize the company's revenue by finding good business opportunities. Your main strategy is to buy good properties in great locations at low prices and then resell them later at higher prices. The greater the difference between buying and selling, the greater the company's profit and therefore the greater its revenue. However, properties have many attributes that make them more or less attractive to buyers and sellers, and location and time of year can also influence prices.
 
 
 [Rossmann Sales -> Regression](https://github.com/ThiagoBorgesLima/Rossman-Store-Sales)
 
 ![Sales](https://github.com/ThiagoBorgesLima/Rossman-Store-Sales/blob/main/imgs/rossmann.jpeg)
 
-The CFO requests the prediction of each store in a monthly meeting, whereas she was having difficulty to find out the best investment value for the renovations of each store, due the prediction provided by the directors was not assertive, there was a lot of divergence. Therefore to solve this problem, I used Machine Learning algorithms to forecast most precisely how would be the store prediction for the next six weeks (forty-two days). 
+Rossmann is one of largest drug store chain in Europe, operating over 3,000 drug stores in 7 countries across the continent.
+
+Recently, the CFO received the task to renovate Rossmann stores and, in order to decide the amount of money each store will receive in the next period budget for renovation, he or she wants to know how much each store will sell in the next six weeks.
 
 The gross expected income of the majority of stores is in the range between R$5000.00 and R$22000.00. The chain is expected to obtain R$283,198,749.24, with best and worst case scenarios of R$284,604,871.47 and R$283,901,824.00, respectively. These scenarios are predicted using statistical errors (mean absolute percentage error).
 
