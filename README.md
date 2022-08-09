@@ -48,7 +48,7 @@ The gross expected income of the majority of stores is in the range between R$50
 
 
 
-[Insurance All -> Classification](https://github.com/ThiagoBorgesLima/health_insurance) ( UNDER DEVELOPMENT )
+[Insurance All -> Classification](https://github.com/ThiagoBorgesLima/health_insurance)
 
 ![insurance](https://github.com/ThiagoBorgesLima/health_insurance/blob/master/references/health.jpeg)
 
