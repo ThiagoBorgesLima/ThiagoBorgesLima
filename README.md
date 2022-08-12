@@ -10,11 +10,11 @@ Welcome to my portfolio, here you can find links to the Data Science projects I 
 
 Analytical tools:
 - Data Collection: MySQL, Postgres.
-- Data Manipulation: Python, Pandas.
+- Data Manipulation: Python, Pandas, Scikitlearn.
 - Data Visualization, Deploy and Cloud with Heroku.
 - Exploratory Data Analysis with Numpy, Seaborn and Pyplot.
-- Data Preparation and Feature Selection with Boruta, Random Forest.
-- Machine Learning: XGBoost and Random Forest.
+- Data Preparation and Feature Selection with Boruta, Random Forest and ExtraTrees.
+- Machine Learning: XGBoost, Random Forest, Logistic Regressor, ExtraTrees and Linear Regressor.
 
 ## Contacts
 
