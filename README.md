@@ -58,12 +58,28 @@ The office delivered a report informing, among all features gathered, the most r
 
 
 
-[Mobility Cars -> Classification](https://github.com/ThiagoBorgesLima/mobility_cars_hack02)
+[Mobility Cars -> Regression](https://github.com/ThiagoBorgesLima/mobility_cars_hack02)
 
 ![mobility](https://github.com/ThiagoBorgesLima/mobility_cars_hack02/blob/master/mobilitycars_data/mobility_cars.jpeg)
 ( Competition Code used for HackDays 02 from Comunidade DS )
 
 A rental car company wants to sell used cars for a best price when they want to renove their fleet of cars. For the best selling values, we can use their data about the cars and create a Linear Regression model to improve the gain.
+
+Mean Absolute Error before: $ 100000,00
+Mean Absolute Error after: $ 25370,00
+
+( Data from kaggle competition )
+
+
+
+[Credit Client -> Classification](https://github.com/ThiagoBorgesLima/mobility_cars_hack02)
+
+![credit](https://github.com/ThiagoBorgesLima/credit_client_hack03/blob/master/credit_client.jpeg)
+( Competition Code used for HackDays 03 from Comunidade DS )
+
+A bank wants to study the churn that they are suffering. They think this are ocurring because their hard and low system to give more credit to clients and send us some data to study the problem.
+With Data Scince project we can improve the classification of their clients with 88% of assertiveness to receive more credit and only use seconds to do this.
+
 ( Data from kaggle competition )
 
 
