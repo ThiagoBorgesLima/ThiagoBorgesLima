@@ -73,7 +73,7 @@ Mean Absolute Error after: $ 25370,00
 
 
 
-[Credit Client -> Classification](https://github.com/ThiagoBorgesLima/mobility_cars_hack02)
+[Credit Client -> Classification](https://github.com/ThiagoBorgesLima/credit_client_hack03)
 
 ![credit](https://github.com/ThiagoBorgesLima/credit_client_hack03/blob/master/credit_client.jpeg)
 ( Competition Code used for HackDays 03 from Comunidade DS )
