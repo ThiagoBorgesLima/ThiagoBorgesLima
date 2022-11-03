@@ -84,6 +84,22 @@ With Data Scince project we can improve the classification of their clients with
 ( Data from kaggle competition )
 
 
+
+[Insiders Classification -> Clustering](https://github.com/ThiagoBorgesLima/insiders_clustering)
+
+![credit](https://github.com/ThiagoBorgesLima/insiders_clustering/blob/master/data/insiders.png)
+
+A online store wants do classificate their clients in "insiders" group to receive some gains about theis expends and for improve sales.
+
+In development
+
+
+
+
+
+
+
+
 <!--
 **ThiagoBorgesLima/ThiagoBorgesLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
