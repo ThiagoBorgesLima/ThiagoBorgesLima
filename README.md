@@ -60,7 +60,7 @@ The office delivered a report informing, among all features gathered, the most r
 
 [Mobility Cars -> Classification](https://github.com/ThiagoBorgesLima/mobility_cars_hack02)
 
-![mobility](https://github.com/ThiagoBorgesLima/health_insurance/blob/master/references/mobility_cars.jpeg)
+![mobility](https://github.com/ThiagoBorgesLima/mobility_cars_hack02/blob/master/mobilitycars_data/mobility_cars.jpeg)
 ( Competition Code used for HackDays 02 from Comunidade DS )
 ( Data from kaggle competition )
 A rental car company wants to sell used cars for a best price when they want to renove their fleet of cars. For the best selling values, we can use their data about the cars and create a Linear Regression model to improve the gain.
