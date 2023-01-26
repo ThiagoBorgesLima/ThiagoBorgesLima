@@ -95,7 +95,7 @@ With Data Scince project we can improve the classification of their clients with
 
 A online store wants do classificate their clients in "insiders" group to receive some gains about theis expends and for improve sales.
 During the project I found more insights that helped the store to understand anothers client clusters and try to make them "insiders", upgrading their shops, recency and frequency at the store.
-This project was build in a cloud system which the store can receive their database from a BI source like Metabase and reach fast what they need about their customers.
+This project was build in a cloud system ( AWS ) with a embedding clustering which the store can receive their database from a BI source like Metabase and reach fast what they need about their customers.
 
 
 
